@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gif-App/static/css/main.84dec82a.css",
+    "main.js": "/Gif-App/static/js/main.31deb6b7.js",
+    "static/js/453.2a82e7ac.chunk.js": "/Gif-App/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/Gif-App/index.html",
+    "main.84dec82a.css.map": "/Gif-App/static/css/main.84dec82a.css.map",
+    "main.31deb6b7.js.map": "/Gif-App/static/js/main.31deb6b7.js.map",
+    "453.2a82e7ac.chunk.js.map": "/Gif-App/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84dec82a.css",
+    "static/js/main.31deb6b7.js"
+  ]
+}
